@@ -31,7 +31,7 @@ This "GSLC Machine Learning" project involves a comprehensive workflow:
 - Data cleaning and preprocessing.
 - Visualization of feature distributions and correlations.
 - Comparison of 7 different classification models.
-- Hyperparameter tuning (jika ada, misal `GridSearchCV`).
+- Hyperparameter tuning (`GridSearchCV`).
 - Model evaluation using Confusion Matrix, Classification Report, and ROC/AUC curves.
 
 ## 📁 Files
